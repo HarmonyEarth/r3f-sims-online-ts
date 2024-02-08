@@ -2,7 +2,7 @@
 
 ## PART 1
 
-Make a Typescript version of Wawa Sensei's Sims game, while also integrating my own tweaks and optimizations throughout the codebase.
+Made a Typescript version of Wawa Sensei's Sims game, while also integrating my own tweaks and optimizations throughout the codebase.
 
 ![Video Thumbnail](http://img.youtube.com/vi/uLv1Zu8GyUw/maxresdefault.jpg)
 
