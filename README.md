@@ -1,6 +1,6 @@
 # Typescript Version of Wawa Sensei's React Three Fiber Sims Inspired Game
 
-Made a Typescript version of Wawa Sensei's Sims game, while also integrating my own tweaks and optimizations throughout the codebase.
+Made a Typescript version of Wawa Sensei's Sims game, while also integrating my own tweaks and optimizations throughout the codebase. Please browse through the branches to view code for each tutorial in the series.
 
 ![Video Thumbnail](http://img.youtube.com/vi/uLv1Zu8GyUw/maxresdefault.jpg)
 
