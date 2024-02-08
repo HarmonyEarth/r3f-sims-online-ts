@@ -1,4 +1,4 @@
-# Typescript Implementation of Wawa Sensei's React Three Fiber Sims Inspired Game
+# Typescript Version of Wawa Sensei's React Three Fiber Sims Inspired Game
 
 ## PART 1
 
